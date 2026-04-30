@@ -23,7 +23,7 @@ This project allows users to upload a PDF and ask questions about its content us
 streamlit run app_ui.py
 ```
 
-## 📌 Notes
+##  Notes
 
 * Runs fully locally (no API cost)
 * Demonstrates Retrieval-Augmented Generation (RAG)
